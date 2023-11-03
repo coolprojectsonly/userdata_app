@@ -1,0 +1,67 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: aliceblue;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.spanHead {
+  color: blue;
+}
+
+.inputComponent {
+  padding: 10px 35px;
+  border-radius: 6px;
+  border: none;
+}
+
+.inputContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 10vw;
+  background-color: whitesmoke;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: indigo;
+  border-radius: 6px;
+  border: none;
+  color: white;
+  margin-left: 14px;
+  cursor: pointer;
+}
+
+.dataSection {
+  width: 100vw;
+  height: 5vh;
+  background-color: rgb(218, 238, 244);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dataComponent {
+  width: 30vw;
+  height: 30vh;
+  background-color: beige;
+  margin-top: 200px;
+}
+
+h6 {
+  margin: 0;
+  color: blue;
+  text-align: left;
+  /* margin-left: 20px; */
+}
+
+.textComponent {
+  margin: 1px;
+}
